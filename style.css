@@ -1,0 +1,26 @@
+#exercise-1 {
+    width: 20%;
+    height: 30vh;
+    overflow-y: scroll;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+
+#exercise-1b {
+    width: 20%;
+    height: 30vh;
+    overflow-y: scroll;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+
+#exercise-2 {
+    width: 25%;
+    height: 30vh;
+    overflow-y: scroll;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
